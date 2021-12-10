@@ -1,4 +1,4 @@
-# mysql-backup
+# mysql自动备份
 mysql自动备份，自动删除30天前备份文件
 
 修改好配置后，添加到linux的定时任务中即可。
